@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/Users/chathurangi/Documents/GitHub/MyWeb/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  // ns-hugo:/Users/chathurangi/Documents/Porfolio/MyWeb copy/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
   function getThemeMode() {
     return parseInt(localStorage.getItem("dark_mode") || 2);
   }
