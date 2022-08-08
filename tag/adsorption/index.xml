@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adsorption | Dinuka H. Gallaba</title>
+    <link>https://dinuka4.github.io/tag/adsorption/</link>
+      <atom:link href="https://dinuka4.github.io/tag/adsorption/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adsorption</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dinuka4.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Adsorption</title>
+      <link>https://dinuka4.github.io/tag/adsorption/</link>
+    </image>
+    
+    <item>
+      <title>High Adsorption of Benzoic Acid on Single Walled Carbon Nanotube Bundles</title>
+      <link>https://dinuka4.github.io/publication/swcnt_2020/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dinuka4.github.io/publication/swcnt_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamic evidence of a transition in ZIF-8 upon CH4 sorption</title>
+      <link>https://dinuka4.github.io/publication/methane_paper2020/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dinuka4.github.io/publication/methane_paper2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon monoxide adsorption in ZIF-8- Kinetics and equilibrium</title>
+      <link>https://dinuka4.github.io/publication/co_paper/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dinuka4.github.io/publication/co_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of Gate-Opening on Xenon Adsorption on ZIF-8 An Adsorption and Computer Simulation Study</title>
+      <link>https://dinuka4.github.io/publication/xe_paper2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://dinuka4.github.io/publication/xe_paper2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
